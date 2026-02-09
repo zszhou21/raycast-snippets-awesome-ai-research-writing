@@ -15,7 +15,7 @@
     | `pe2c` | 【AI Prompt】英转中 |
     | `pc2c` | 【AI Prompt】中转中 |
     | `pshorten` | 【AI Prompt】缩写 |
-    | `pexpand` | 【学术习作 Prompt】扩写 |
+    | `pexpand` | 【AI Prompt】扩写 |
     | `ppolishe` | 【AI Prompt】表达润色（英文论文） |
     | `ppolishc` | 【AI Prompt】表达润色（中文论文） |
     | `plogic` | 【AI Prompt】逻辑检查 |
