@@ -9,6 +9,8 @@
 ## Usage
 
 1. Type a keyword in any AI input field. The keywords are listed in the table below, along with their corresponding snippet names.
+    <div align="center">
+
     | Keyword | Snippet Name |
     | --- | --- |
     | `pc2e` | 【AI Prompt】中转英 |
@@ -27,6 +29,8 @@
     | `pcapt` | 【AI Prompt】生成表的标题 |
     | `pexp` | 【AI Prompt】实验分析 |
     | `preview` | 【AI Prompt】论文整体以 Reviewer 视角进行审视 |
+    
+    </div>
 2. Input the text or any content you want to process, and the snippet will generate the desired output based on the prompt.
     <div align="center">
         <img src="assets/images/usage.png" alt="Usage Example" width="70%" />
